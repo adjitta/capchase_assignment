@@ -32,6 +32,8 @@ Use the package manager conda to install the following libraries:
 
 ```bash
 conda install pandas
+conda install ipykernel
+conda install xlrd
 ```
  ### Requirements :arrow_forward:
  - Data analysis:

@@ -1,4 +1,4 @@
-# Module 3 : Diamond's Price
+# Data Analyst - Assignment 
 ![Image](https://uploads-ssl.webflow.com/5e820230603d2720689c8249/5ee4f9c2e4be3a3e46943568_logo_text_alternate-p-500.png)
 
 ## Goal
